@@ -1,5 +1,5 @@
 # build file
-MDK-ARM/multi-thread
+MDK-ARM/multi_thread
 
 # local ide info
 MDK-ARM/*.uvguix.*

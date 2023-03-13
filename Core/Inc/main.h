@@ -76,6 +76,7 @@ void Error_Handler(void);
 #define DIO3_Pin GPIO_PIN_6
 #define DIO3_GPIO_Port GPIOB
 #define DIO3_EXTI_IRQn EXTI9_5_IRQn
+
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */

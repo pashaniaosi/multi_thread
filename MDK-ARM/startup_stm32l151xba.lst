@@ -469,12 +469,12 @@ ARM Macro Assembler    Page 8
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
 ork --depend=multi_thread\startup_stm32l151xba.d -omulti_thread\startup_stm32l1
-51xba.o -I..\Core\Inc -I.\RTE\_multi_thread -I"d:\Program Files\Keil\ARM\PACK\A
-RM\CMSIS\5.9.0\CMSIS\Core\Include" -I"d:\Program Files\Keil\ARM\PACK\Keil\STM32
-L1xx_DFP\1.4.1\Drivers\CMSIS\Device\ST\STM32L1xx\Include" --predefine="__MICROL
-IB SETA 1" --predefine="__UVISION_VERSION SETA 525" --predefine="_RTE_ SETA 1" 
---predefine="STM32L151xBA SETA 1" --list=startup_stm32l151xba.lst startup_stm32
-l151xba.s
+51xba.o -I..\Core\Inc -I.\RTE\_multi_thread -I"D:\Program Files\Keil5\ARM\PACK\
+ARM\CMSIS\5.9.0\CMSIS\Core\Include" -I"D:\Program Files\Keil5\ARM\PACK\Keil\STM
+32L1xx_DFP\1.4.1\Drivers\CMSIS\Device\ST\STM32L1xx\Include" --predefine="__MICR
+OLIB SETA 1" --predefine="__UVISION_VERSION SETA 536" --predefine="_RTE_ SETA 1
+" --predefine="STM32L151xBA SETA 1" --predefine="_RTE_ SETA 1" --list=startup_s
+tm32l151xba.lst startup_stm32l151xba.s
 
 
 
