@@ -164,8 +164,8 @@ void MX_FREERTOS_Init(void) {
 
   /* Create the thread(s) */
   /* definition and creation of init */
-  osThreadDef(init, INIT, osPriorityNormal, 0, 128);
-  initHandle = osThreadCreate(osThread(init), NULL);
+//  osThreadDef(init, INIT, osPriorityNormal, 0, 128);
+//  initHandle = osThreadCreate(osThread(init), NULL);
 
   /* USER CODE BEGIN RTOS_THREADS */
   /* add threads, ... */
